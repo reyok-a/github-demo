@@ -23,7 +23,7 @@ hello reyok git git git git
 hello reyok git git git git
 hello reyok git git git git
 hello reyok git git git git
-hello reyok git git git git  master test
+hello reyok git git git git  hot-fix test
 hello reyok git git git git
 hello reyok git git git git  
 
